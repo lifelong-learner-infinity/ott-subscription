@@ -1,0 +1,14 @@
+{
+  "name": "ott-subscription",
+  "version": "1.0.0",
+  "description": "Virtual OTT Subscription Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
